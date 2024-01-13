@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋, I am Axel Moran Caballero
+
+🔭 I’m currently studying Computer Science @ Concordia University
+
+🧰 I use TypeScript, React, Java, TailwindCSS, Python
+
+⏮️ LinkedIn: [my page](https://www.linkedin.com/in/axel-moran-caballero-9324ab263/)
+
+📫 How to reach me: amorancaballero [@] hotmail [dot] com
 
 <!--
 **AxelMoranC/AxelMoranC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
