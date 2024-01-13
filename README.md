@@ -6,6 +6,8 @@
 
 ⏮️ LinkedIn: [my page](https://www.linkedin.com/in/axel-moran-caballero-9324ab263/)
 
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]([https://katherineoelsner.com/](https://github.com/AxelMoranC/AxelMoranC.github.io))
+
 📫 How to reach me: amorancaballero [@] hotmail [dot] com
 
 <!--
