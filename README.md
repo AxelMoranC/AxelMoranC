@@ -2,7 +2,7 @@
 
 🔭 I’m currently studying Computer Science @ Concordia University
 
-🧰 I use Java, Python, TypeScript, React, TailwindCSS, HTML & CSS
+🧰 I use Java, Python, TypeScript, React, JavaScript, TailwindCSS, HTML & CSS
 
 ⏮️ LinkedIn: [my page](https://www.linkedin.com/in/axel-moran-caballero-9324ab263/)
 
